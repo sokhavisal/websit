@@ -33,5 +33,9 @@ and open the template in the editor.
 		    <li><a href="#">Login</a>
 		    <li> | </li>
 		</ul>
-	    </div>   
+	    </div>
+	    
+	    <div id="search-box">
+		
+	    </div>
 	</div>

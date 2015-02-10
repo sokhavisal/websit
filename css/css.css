@@ -25,6 +25,18 @@ body{
 
     
 }
+#search-box{
+    width: 500px;
+     margin: 0 auto;
+    text-align: left;
+    float: right;
+     margin: 0 auto;
+    
+    background-color: red;
+
+
+    
+}
 #nav ul li{
     display: inline-block;
     //border: 2px solid #DDD;
@@ -62,14 +74,16 @@ body{
     display: block;
     position: relative;
     margin:auto;
-     overflow: hidden;
+    
    
 }
-slide{
+
+#slide{
     width: 895px;
     height: 300px;
     display: block;
     position: absolute;
+    overflow: hidden;
    
 }
 #content{

@@ -1,5 +1,5 @@
 <?php require 'header1.php';?>
-	<div id="leftside" ></div>
+	
  <div class="wrapper"><!--Wrapper-->
       <div id ="content">		
 	

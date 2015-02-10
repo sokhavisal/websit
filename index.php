@@ -62,9 +62,69 @@ and open the template in the editor.
 	    <div id ="content">
 		<div style="clear: both"></div>
 		<?php require 'slide.php';?>
-		
+		sdfdsfdsfsdf
+		sdfsdfsdf
+		dsfsdfsdf
+		sdfsdfdssdfdsfdsfsdf
+		sdfsdfsdf
+		dsfsdfsdf
+		sdfsdfds
+		<Br>
+		<br>
+		sdfdsfdsfsdf
+		sdfsdfsdf
+		dsfsdfsdf
+		sdfsdfdssdfdsfdsfsdf
+		sdfsdfsdf
+		dsfsdfsdf
+		sdfsdfds
+		<Br>
+		<br>
+		sdfdsfdsfsdf
+		sdfsdfsdf
+		dsfsdfsdf
+		sdfsdfdssdfdsfdsfsdf
+		sdfsdfsdf
+		dsfsdfsdf
+		sdfsdfds
+		<Br>
+		<br>
+		sdfdsfdsfsdf
+		sdfsdfsdf
+		dsfsdfsdf
+		sdfsdfdssdfdsfdsfsdf
+		sdfsdfsdf
+		dsfsdfsdf
+		sdfsdfds
+		<Br>
+		<br>
+		sdfdsfdsfsdf
+		sdfsdfsdf
+		dsfsdfsdf
+		sdfsdfdssdfdsfdsfsdf
+		sdfsdfsdf
+		dsfsdfsdf
+		sdfsdfds
+		<Br>
+		<br>sdfdsfdsfsdf
+		sdfsdfsdf
+		dsfsdfsdf
+		sdfsdfdssdfdsfdsfsdf
+		sdfsdfsdf
+		dsfsdfsdf
+		sdfsdfds
+		<Br>
+		<br>sdfdsfdsfsdf
+		sdfsdfsdf
+		dsfsdfsdf
+		sdfsdfdssdfdsfdsfsdf
+		sdfsdfsdf
+		dsfsdfsdf
+		sdfsdfds
+		<Br>
+		<br>
  	    </div>
-	   
+	  
     
     
     <div id="footer">
