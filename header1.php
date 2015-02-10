@@ -17,14 +17,21 @@ and open the template in the editor.
 	<div id="nav">
 	    <div id="nav-wrapper">
 		<ul>
+			<li> | </li>
 		    <li><a href="index.php">Home</a>
+		    <li> | </li>
 		    <li><a href="comfirm.html">About us</a>
+			<li> | </li>
 		    <li><a href="header.php">Contact</a>
+			<li> | </li>
 		    <li><a href="#">Promotion</a>
+			<li> | </li>
 		    <li><a href="#">Products</a>
-		    <li><a href="#">Registration</a>
+			<li> | </li>
+		    <li><a href="registration.php">Registration</a>
+			<li> | </li>
 		    <li><a href="#">Login</a>
-		    
+		    <li> | </li>
 		</ul>
 	    </div>   
 	</div>

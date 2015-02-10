@@ -1,7 +1,10 @@
 <?php require 'header1.php';?>
 	<div id="leftside" ></div>
- <div id ="content">  
-	<div class="wrapper"><!--Wrapper-->
+ <div class="wrapper"><!--Wrapper-->
+      <div id ="content">		
+	
+	
+		    
 			
 				<div class="panel-wrapper info">
 				<div class="message-header">
@@ -97,7 +100,10 @@
 			</center>
 			
 		</div>
+	   
 	</div>
+     
       </div>
+	 <?php require 'footer.php';?>
     </body>
 </html>
