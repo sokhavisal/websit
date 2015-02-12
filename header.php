@@ -1,11 +1,20 @@
 <?php require 'header1.php';?>
 	
  <div class="wrapper"><!--Wrapper-->
+      <div id="leftside" >
+	    <h3>atest</h3>
+		<p>helloworld</p>
+		<h3>atest</h3>
+		<p>helloworld</p>
+		<h3>atest</h3>
+		<p>helloworld</p>
+		<h3>atest</h3>
+		<p>helloworld</p>
+		<h3>atest</h3>
+		<p>helloworld</p>
+	    </div>
+     <div style="clear: both"></div>
       <div id ="content">		
-	
-	
-		    
-			
 				<div class="panel-wrapper info">
 				<div class="message-header">
 					<h3 class="panel-title desc">Your Information</h3>
@@ -102,8 +111,9 @@
 		</div>
 	   
 	</div>
-     
+      </div>
       </div>
 	 <?php require 'footer.php';?>
+
     </body>
 </html>

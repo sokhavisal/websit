@@ -17,19 +17,20 @@
   
 	
 	<div id="pager"></div>
-	<div id="play">></div>
-	<div id="prev"><</div>
-	<div id="pause">=</div>
-	<div id="next">+</div>
-	  <div id="slide">
-    <div class="items">
-	<img src="imageslide/img1.jpg" width="895px" height="300px">
-	    <div class="info">
-		<h2>The Secret item</h2>
-		<p>This is the Moment, capture in time.<a href="#">Learn More</a></p>
-	    </div><!--End--Info-->	
+	<div id="play">&Delta;</div>
+	<div id="prev">&Lang;</div>
+	<div id="pause">&asymp;</div>
+	<div id="next">&rang;</div>
 	
-    </div><!--EndItems-->
+    <div id="slide">
+	<div class="items">
+	    <img src="imageslide/img1.jpg" width="895px" height="300px">
+		<div class="info">
+		    <h2>The Secret item</h2>
+		    <p>This is the Moment, capture in time.<a href="#">Learn More</a></p>
+		</div><!--End--Info-->	
+	
+	</div><!--EndItems-->
       <div class="items">
 	<img src="imageslide/img2.jpg" width="895px" height="300px">
 	    <div class="info">
